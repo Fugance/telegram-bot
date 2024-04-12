@@ -1,7 +1,3 @@
-Certainly! Below is a sample `README.md` description for your Telegram bot. This README provides an overview of the bot's functionality, installation instructions, usage details, and configuration steps, suitable for developers or users who may want to deploy or contribute to the bot.
-
----
-
 # Telegram Moderation Bot
 
 ## Overview
