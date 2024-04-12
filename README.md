@@ -50,10 +50,3 @@ This Telegram bot is designed to facilitate the moderation of content submission
 
 ## Contributing
 Contributions to the bot are welcome! Please feel free to fork the repository, make changes, and submit a pull request. We appreciate any contributions to improving error handling, adding features, or documentation.
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-This README provides a comprehensive guide that is easy to follow, enabling users to understand how to set up and use the bot effectively. Adjust the links and configuration details according to your project's setup and repository details.
