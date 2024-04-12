@@ -20,7 +20,7 @@ This Telegram bot is designed to facilitate the moderation of content submission
 ### Setup
 1. **Clone the repository:**
    ```bash
-   git [clone https://github.com/yourgithub/telegram-moderation-bot.git](https://github.com/Fugance/telegram-bot.git)
+   git clone https://github.com/Fugance/telegram-bot.git
    cd telegram-bot
    ```
 
