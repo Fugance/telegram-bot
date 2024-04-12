@@ -47,6 +47,3 @@ This Telegram bot is designed to facilitate the moderation of content submission
 - **TOKEN**: Your bot's unique authentication token.
 - **ADMIN_ID**: The Telegram user ID of the administrator.
 - **CHANNEL_ID**: The ID of the Telegram channel where approved messages will be posted.
-
-## Contributing
-Contributions to the bot are welcome! Please feel free to fork the repository, make changes, and submit a pull request. We appreciate any contributions to improving error handling, adding features, or documentation.
